@@ -1,5 +1,5 @@
 [{
-    "index": "job_post",
+    "index": "dropdown_university",
     "filter": {
       "_id": {
         "$in": [
