@@ -1,0 +1,45 @@
+[{
+    "index": "dropdown_study_major",
+    "filter": {
+      "_id": {
+        "$in": [
+            "63cfe3f95cf72c010e39516c",
+            "63cfe3f95cf72c010e3951a7",
+            "63cfe3f95cf72c010e3951a6",
+            "63cfe3f95cf72c010e39516d",
+            "63cfe89870f3d40176fe96d3",
+            "63cff34c313ba401bb6da73f",
+            "63cff34b313ba401bb6da73c",
+            "63cff389313ba401bb6da805",
+            "63cff34a313ba401bb6da739",
+            "63cff34b313ba401bb6da73d",
+            "63cff34c313ba401bb6da73e",
+            "63cff389313ba401bb6da803",
+            "63cff389313ba401bb6da808",
+            "63cff34a313ba401bb6da737",
+            "63cff387313ba401bb6da7ff",
+            "63cff388313ba401bb6da802",
+            "63cff38b313ba401bb6da809"
+          ]
+      }
+    }
+  },
+  {
+    "index": "dropdown_university",
+    "filter": {
+      "_id": {
+        "$in": [
+            "63cfe3de5cf72c010e3886e3",
+            "63cfe3de5cf72c010e3886e4",
+            "63cfe3de5cf72c010e3886e5",
+            "63cfe3de5cf72c010e3886e9",
+            "63cfe3de5cf72c010e3886e7",
+            "63cfe3de5cf72c010e3886e8",
+            "63cfe3de5cf72c010e3886e6",
+            "63cfe4125cf72c010e3996b5",
+            "63cfe4125cf72c010e3996ae"
+          ]
+      }
+    }
+  }
+]
