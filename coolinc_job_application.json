@@ -1,0 +1,52 @@
+[
+  {
+    "index": "job_application",
+    "filter": {
+      "_id": {
+        "$in": [
+          "61dae1c06afcfecff2950a35",
+          "61ea1a73627d4ea1308774bc",
+          "61dae34d6afcfe553b950ab7",
+          "61d5017d6afcfe298c94f36e",
+          "61ba6b6258cb4f4facea5f5a",
+          "61e57249627d4ee6e7875724",
+          "61ee87720d57fac24450f8c9",
+          "61ab7b9eb8a0bd5286b3b9dd",
+          "61f2681a62851c75e83a04a1",
+          "61f571b29750ae3fe76ae1e2",
+          "61f6bae185d9c2809ef5b5bc",
+          "61fa436f85d9c27e25f5eb5a",
+          "6204c39f93af4d5e61cfbd3c",
+          "64f598e88ad3ee42055b1420",
+          "64f5bb9d8ad3ee2bd65e7a1a",
+          "64f5c8858ad3ee6c8a5f6ecc",
+          "64f59d208ad3ee76cc5b4712",
+          "64f59f9f8ad3ee2c795b9094",
+          "64f5a37b8ad3ee373c5be513",
+          "64f5a7e58ad3ee1f555c39c1",
+          "64f5b6898ad3ee92535dd78a",
+          "64f5b7738ad3ee3f3d5df511",
+          "64f596e88ad3eea2575af667",
+          "64f5cc388ad3ee3ff25fb4f5",
+          "64f59f038ad3ee44705b71cb",
+          "64f5a1438ad3ee84265bc2f1",
+          "64f5a76e8ad3eeb3185c278b",
+          "64f5ac868ad3eed7b15caa13",
+          "64f5ba7c8ad3ee35e05e5008",
+          "64f5c5db8ad3ee42f05f396a",
+          "64f5ad158ad3eeb9b45cb417",
+          "64f5c5688ad3ee01f15f28aa",
+          "64f5d0af8ad3ee30045feec6",
+          "64f5c4108ad3ee0f075f10fe",
+          "64f5c8a88ad3ee35975f7455",
+          "64f5b57b8ad3eee8115db291",
+          "64f5b63f8ad3ee436d5dcaf1",
+          "64f5da258ad3eef777608448",
+          "64f5b6568ad3ee12595dcfc3",
+          "64f5d6e38ad3ee576d605213",
+          "64f5d9668ad3ee0e51607b2c"
+        ]
+      }
+    }
+  }
+]
