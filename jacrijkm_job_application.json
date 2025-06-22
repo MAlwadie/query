@@ -1,11 +1,12 @@
 [{
-    "index": "job_application",
+    "index": "job_seeker",
     "filter": {
       "_id": {
         "$in": [
-            "68230bce200468c2ec77b363",
-            "68230bef200468c2ec77b93f",
-            "68234341200468c2ec7af3aa"
+  "66ddd5b9e40bf186e15b2126",
+  "6826942d8a20ddcfe384901c",
+  "682dd3f29a90e355fe922435",
+  "6835f14dfab0f4ad47c66ffe"
           ]
           
       }
